@@ -1,0 +1,16 @@
+0 Triangular prism, 3 faces drawn, 1 edge left out
+0 Name: tri3u.dat
+0 Author: Mark Kennedy
+0 BFC CERTIFY CCW
+2 24 1 1 0 0 1 1 
+2 24 0 1 1 0 1 0 
+2 24 0 1 0 1 1 0 
+2 24 1 0 0 0 0 1 
+2 24 0 0 1 0 0 0 
+2 24 0 0 0 1 0 0 
+2 24 1 0 0 1 1 0 
+2 24 0 0 1 0 1 1 
+4 16 1 1 0 0 1 1 0 0 1 1 0 0 
+3 16 0 1 0 0 1 1 1 1 0 
+3 16 1 0 0 0 0 1 0 0 0 
+0 

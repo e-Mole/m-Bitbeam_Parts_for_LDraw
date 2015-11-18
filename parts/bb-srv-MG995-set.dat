@@ -1,0 +1,11 @@
+0 Bitbeam Servo MG995 +  Servo mount
+0 Name: bb-srv-MG995-set.dat
+0 Author: Tomas Feltl (e-Mole.cz)
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 0 4 40 0 -1 0 0 0 0 1 0 1 0 bb-srv-MG995.dat
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 bb-srv_big-m.dat
+1 9 59 27 -14 1 0 0 0 1 0 0 0 1 bb-sc-M4x10.dat
+1 9 -59 27 -14 1 0 0 0 1 0 0 0 1 bb-sc-M4x10.dat
+0

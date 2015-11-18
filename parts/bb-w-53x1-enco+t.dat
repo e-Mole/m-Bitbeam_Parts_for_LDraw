@@ -1,0 +1,10 @@
+0 Bitbeam Wheel 53 Encoder + Tire
+0 Name: bb-w-53x1-enco+t.dat
+0 Author: Tomas Feltl (e-Mole.cz)
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 bb-w-53x1-enco.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 bb-w-53x1-t.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 bb-sc-M3x12-2-s.dat
+0

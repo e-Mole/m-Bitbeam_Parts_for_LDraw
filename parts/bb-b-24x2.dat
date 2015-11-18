@@ -1,0 +1,70 @@
+0 Bitbeam Beam  2 x 24
+0 Name: bb-b-24x2.dat
+0 Author: Tomas Feltl (e-Mole.cz)
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+
+1 16 20 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 40 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 60 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 80 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 100 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 120 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 140 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 160 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 180 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 200 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 220 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+
+1 16 -20 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 -40 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 -60 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 -80 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 -100 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 -120 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 -140 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 -160 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 -180 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 -200 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 -220 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+1 16 -240 0 0 1 0 0 0 1 0 0 0 1 bbbeam1d.dat
+
+1 16 0 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+
+1 16 20 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 40 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 60 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 80 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 100 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 120 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 140 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 160 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 180 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 200 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 220 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+
+1 16 -20 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 -40 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 -60 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 -80 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 -100 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 -120 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 -140 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 -160 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 -180 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 -200 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 -220 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+1 16 -240 20 0 1 0 0 0 -1 0 0 0 -1 bbbeam1d.dat
+
+1 16 230 10 0 0 -1 0 20 0 0 0 0 10 rect.dat
+1 16 -250 10 0 0 1 0 20 0 0 0 0 -10 rect.dat
+0 //BFC NOCLIP
+0 //16 -10 10 10 0 0 -240 20 0 0 0 -1 0 rect.dat
+0 //16 -10 10 -10 0 0 -240 20 0 0 0 -1 0 rect.dat
+0

@@ -1,0 +1,17 @@
+0 Box with 3 Faces without 5 Edges
+0 Name: box3u5p.dat
+0 Author: William Howard
+0 Unofficial LDraw Primitive
+0 BFC CERTIFY CCW
+
+2 24 1 1 1 -1 1 1 
+2 24 -1 1 -1 1 1 -1 
+2 24 1 0 1 -1 0 1 
+2 24 -1 0 -1 1 0 -1 
+2 24 -1 1 1 -1 1 -1 
+2 24 -1 1 1 -1 0 1 
+2 24 -1 1 -1 -1 0 -1 
+4 16 1 1 -1 -1 1 -1 -1 1 1 1 1 1 
+4 16 1 1 1 -1 1 1 -1 0 1 1 0 1 
+4 16 -1 1 -1 1 1 -1 1 0 -1 -1 0 -1 
+0 

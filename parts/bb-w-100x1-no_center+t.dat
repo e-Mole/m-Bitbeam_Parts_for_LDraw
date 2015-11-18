@@ -1,0 +1,9 @@
+0 Bitbeam Wheel 100 no center + Tire
+0 Name: bb-w-100x1-no_center+t.dat
+0 Author: Tomas Feltl (e-Mole.cz)
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 bb-w-100x1-no_center.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 bb-w-100x1-t.dat
+0

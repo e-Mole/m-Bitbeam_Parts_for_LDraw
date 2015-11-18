@@ -1,0 +1,11 @@
+0 Bitbeam screw M3 (2x) for 100 mm Wheel
+0 Name: bb-sc-M3x12-2-l.dat
+0 Author: Tomas Feltl (e-Mole.cz)
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 9 7.3 7.3 8.3 0 0.707107 0.707107 0 -0.707107 0.707107 1 0 0 bb-sc-M3n.dat
+1 9 25.455 25.456 8.3 0 -0.707107 -0.707107 0 0.707107 -0.707107 1 0 0 bb-sc-M3x12.dat
+1 9 -7.349 -7.349 8.3 0 -0.707107 -0.707107 0 0.707107 -0.707107 1 0 0 bb-sc-M3n.dat
+1 9 -25.504 -25.505 8.3 0 0.707107 0.707107 0 -0.707107 0.707107 1 0 0 bb-sc-M3x12.dat
+0

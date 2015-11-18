@@ -1,0 +1,25 @@
+0 Box 5 faces without Top edges
+0 Name: box5-4a.dat
+0 Author: Guy Vivan
+0 Unofficial Primitive
+
+0 BFC CERTIFY CCW
+
+0 // 2004-11-17  GuyVivan  Initial Version
+0 // 2005-05-19  GuyVivan  Made BFC CCW
+
+2 24 1 1 1 -1 1 1 
+2 24 -1 1 1 -1 1 -1 
+2 24 -1 1 -1 1 1 -1 
+2 24 1 1 -1 1 1 1 
+2 24 1 0 1 1 1 1 
+2 24 -1 0 1 -1 1 1 
+2 24 1 0 -1 1 1 -1 
+2 24 -1 0 -1 -1 1 -1 
+4 16 1 1 -1 -1 1 -1 -1 1 1 1 1 1 
+4 16 -1 1 1 -1 0 1 1 0 1 1 1 1 
+4 16 -1 1 -1 -1 0 -1 -1 0 1 -1 1 1 
+4 16 1 1 -1 1 0 -1 -1 0 -1 -1 1 -1 
+4 16 1 1 1 1 0 1 1 0 -1 1 1 -1 
+0 
+0 

@@ -1,0 +1,17 @@
+0 Bitbeam Beam L90  3 x  4
+0 Name: bb-a90-3x4x1.dat
+0 Author: Tomas Feltl (e-Mole.cz)
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 ROTATION CONFIG 0 0
+1 16 20 0 0 1 0 0 0 1 0 0 0 1 bbbeam1.dat
+1 16 40 0 0 1 0 0 0 1 0 0 0 1 bbbeam1.dat
+1 16 60 0 0 1 0 0 0 1 0 0 0 1 bbbeam1.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 bbbeam1s6e.dat
+1 16 70 0 0 0 -1 0 10 0 0 0 0 10 rect.dat
+0 WRITE second L part
+1 16 0 0 20 0 0 -1 0 1 0 1 0 0 bbbeam1.dat
+1 16 0 0 40 0 0 -1 0 1 0 1 0 0 bbbeam1.dat
+1 16 0 0 50 0 0 -10 10 0 0 0 -1 0 rect.dat
+0

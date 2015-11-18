@@ -1,0 +1,13 @@
+0 Bitbeam Wheel 53 + Tire
+0 Name: bb-w-53x1-center+t.dat
+0 Author: Tomas Feltl (e-Mole.cz)
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 bb-w-53x1-center.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 bb-w-53x1-t.dat
+1 9 9.743 36.639 9 -0.965926 0 -0.258819 0.258819 0 -0.965926 0 -1 0 bb-sc-M3x12.dat
+1 9 3.88228 14.4889 9 -0.965926 0 -0.258819 0.258819 0 -0.965926 0 -1 0 bb-sc-M3n.dat
+1 9 -9.669 -35.805 9 0.965926 0 0.258819 -0.258819 0 0.965926 0 -1 0 bb-sc-M3x12.dat
+1 9 -3.808 -13.655 9 0.965926 0 0.258819 -0.258819 0 0.965926 0 -1 0 bb-sc-M3n.dat
+0
