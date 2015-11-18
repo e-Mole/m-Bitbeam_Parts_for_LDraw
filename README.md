@@ -2,8 +2,7 @@
 
 m-Bitbeam construction set – parts in DAT format for LDraw (http://www.ldraw.org).
 
-<img src="http://www.e-mole.cz/sites/default/files/styles/thumbnail_250x250/public/20151014_dsc6983_d300.jpg?itok=_OtL7F8L" alt="Bitbeam photo">&nbsp;&nbsp;<img src="http://www.e-mole.cz/sites/default/files/pictures/bitbeam-servo-mg995-set2.png" alt="Bitbeam in LDView">
-
+<img src="http://www.e-mole.cz/sites/default/files/styles/thumbnail_250x250/public/20151014_dsc6983_d300.jpg?itok=_OtL7F8L" alt="Bitbeam photo" />&nbsp;&nbsp;<img src="https://github.com/e-Mole/m-Bitbeam_Parts_for_LDraw/blob/master/examples/all-basic-parts_page_1.png" style="height:176px; width:auto;" height="176px" alt="Bitbeam parts" />&nbsp;&nbsp;<img src="https://github.com/e-Mole/m-Bitbeam_Parts_for_LDraw/blob/master/examples/all-basic-sets_page_1.png" style="height:176px; width:auto;" height="176px" alt="Bitbeam sets">
 
 ## What is Bitbeam?
 _Basic Info from [Bitbeam Repository] (https://github.com/bitbeam/bitbeam/wiki/The-Bitbeam-project):_
