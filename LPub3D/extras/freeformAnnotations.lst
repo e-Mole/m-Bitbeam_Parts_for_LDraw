@@ -1,0 +1,121 @@
+﻿#Enter free form part annotations on this list
+#Follow this format to define freeform annotations
+#The format is part ID followed free-form annotation (some special characters may not be supported) 
+
+#ID			Annotation
+3024.dat	1x1
+4073.dat	1x1
+3614.dat	1x1
+6019.dat	1x1
+3023.dat	1x2
+4596.dat	1x2
+2508.dat	1x2
+2540.dat	1x2
+4175.dat	1x2
+4623.dat	1x2
+3623.dat	1x3
+3710.dat	1x4
+4590.dat	1x4
+3184.dat	1x4
+3183.dat	1x4
+2926.dat	1x4
+3666.dat	1x6
+6583.dat	1x6
+3460.dat	1x8
+4510.dat	1x8
+4477.dat	1x10
+3022.dat	2x2
+2420.dat	2x2
+2655.dat	2x2
+3481.dat	2x2
+2444.dat	2x2
+2817.dat	2x2
+4229.dat	2x2
+3731.dat	2x2
+3730.dat	2x2
+4488.dat	2x2
+2415.dat	2x2
+4600.dat	2x2
+4870.dat	2x2
+6157.dat	2x2
+3021.dat	2x3
+3462.dat	2x3
+3020.dat	2x4
+3491.dat	2x5
+3795.dat	2x6
+3034.dat	2x8
+3832.dat	2x10
+2445.dat	2x12
+4282.dat	2x16
+3176.dat	3x2
+2450.dat	3x3
+2419.dat	3x6
+3031.dat	4x4
+2639.dat	4x4
+3032.dat	4x6
+3035.dat	4x8
+6576.dat	4x8
+3030.dat	4x10
+3029.dat	4x12
+3958.dat	6x6
+2539.dat	6x6
+6003.dat	6x6
+6106.dat	6x6
+3036.dat	6x8
+3033.dat	6x10
+3028.dat	6x12
+3456.dat	6x14
+3027.dat	6x16
+3026.dat	6x24
+6063.dat	10x10
+2401.dat	10x10
+bb-ax-106.dat	106 mm
+bb-b-3x1.dat	3
+bb-b-5x1.dat	5
+bb-b-7x1.dat	7
+bb-b-9x1.dat	9
+bb-b-11x1.dat	11
+bb-b-13x1.dat	13
+bb-b-15x1.dat	15
+bb-b-24x2.dat	2 x 24
+bb-b-10x10x1.dat	10 x 10
+bb-b-12x12x1.dat	12 x 12
+bb-a45-6x6x1.dat	6 x 6
+bb-a90-3x2x1.dat	2 x 3
+bb-a90-3x4x1.dat	3 x 4
+bb-a90-3x6x1.dat	4 x 6
+bb-a90-5x1-swm.dat	5 x 2
+bb-t-7x4x1.dat	4 x 7
+bb-x-5x5x1.dat	5 x 5
+bb-cau.dat	Case for Arduino UNO
+bb-cb400.dat	Case for Breadboard 400
+bb-srv_big-m.dat	Servo Big mount
+bb-srv_small-m.dat	Servo Small mount
+bb-srv_small-p.dat	Servo Small plate
+bb-w-100x1-center.dat	100
+bb-w-100x1-center+t.dat	100 + Tire
+bb-w-100x1-t.dat	100 Tire
+bb-w-100x1-no_center.dat	100 no center
+bb-w-100x1-no_center+t.dat	100 no center + Tire
+bb-w-53x1-center.dat	53
+bb-w-53x1-center+t.dat	53 + Tire
+bb-w-53x1-cross.dat	53 Cross
+bb-w-53x1-cross+t.dat	53 Cross + Tire
+bb-w-53x1-enco.dat	53 Encoder
+bb-w-53x1-enco+t.dat	53 Encoder + Tire
+bb-w-53x1-t.dat	53 Tire
+bb-w-53x1-no_center.dat	53 no center
+bb-w-53x1-no_center+t.dat	53 no center + Tire
+bb-sc-M2x10.dat	M2.5 x 10
+bb-sc-M3x12-2-s.dat	M3 (2x) for  53 mm Wheel
+bb-sc-M3x12-2-l.dat	M3 (2x) for 100 mm Wheel
+bb-sc-M3n.dat	M3 nut
+bb-sc-M3p.dat	M3 pad (large)
+bb-sc-M3x12.dat	M3 x 12
+bb-sc-M3x25.dat	M3 x 25
+bb-sc-M4n.dat	M4 nut
+bb-sc-M4p.dat	M4 pad
+bb-sc-M4x10.dat	M4 x 10
+bb-sc-M4x20.dat	M4 x 20
+bb-sc-M4x30.dat	M4 x 30
+#...
