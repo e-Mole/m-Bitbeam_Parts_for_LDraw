@@ -1,0 +1,11 @@
+0 Bitbeam Servo Set MG995 +  SM + 100 mm Wheel
+0 Name: bb-srv-MG995-set2.dat
+0 Author: Tomas Feltl (e-Mole.cz)
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 0 0 0 -1 0 0 0 1 0 0 0 -1 bb-srv-MG995-setR.dat
+1 16 23.5 40 -55 -1 0 0 0 1 0 0 0 -1 bb-w-100x1-center+t.dat
+1 9 24 40 -86 1 0 0 0 1 0 0 0 1 bb-sc-M3x25.dat
+1 12 24 40 -86 1 0 0 0 1 0 0 0 1 bb-sc-M3p.dat
+0
