@@ -1,0 +1,9 @@
+0 Bitbeam Servo Set SG90 +  SM + A
+0 Name: bb-srv-SG90-set-m3.dat
+0 Author: Tomas Feltl & e-Mole.cz & LDraw
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 16 10 17 -31 0 -1 0 1 0 0 0 0 1 bb-srv-SG90-set-m2.dat
+1 16 50 16 -10 0 1 0 -1 0 0 0 0 1 bb-adp-srv-10x8-sm.dat
+0
