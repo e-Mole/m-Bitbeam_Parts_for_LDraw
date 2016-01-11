@@ -1,10 +1,10 @@
-0 Bitbeam basic parts list
-0 Name: all-basic-parts.ldr
+0 Untitled
+0 Name: all-basic-parts-v02.ldr
 0 Author: Tomas Feltl & e-Mole.cz & LDraw
 0 Unofficial Model
 0 !LPUB PLI SHOW GLOBAL FALSE
-0 !LPUB BOM PLACEMENT LOCAL CENTER PAGE INSIDE 0.00582457 -0.00251255
-0 !LPUB BOM CONSTRAIN LOCAL HEIGHT 7.27333
+0 !LPUB BOM PLACEMENT LOCAL CENTER PAGE INSIDE 0.00582457 0.000419557
+0 !LPUB BOM CONSTRAIN LOCAL HEIGHT 8.31333
 0 !LPUB BOM SORT_BY SORT_OPTION GLOBAL "Part Color"
 0 !LPUB BOM ANNOTATION DISPLAY GLOBAL TRUE
 0 !LPUB BOM ANNOTATE FONT_COLOR GLOBAL "#2b9547"
@@ -20,7 +20,9 @@
 0 ROTATION CENTER 0 0 0 1 "Custom" 
 0 ROTATION CONFIG 0 0
 0 STEP
-1 14 180 -296 0 1 0 0 0 1 0 0 0 1 bb-ax-106.dat
+1 14 -820 176 0 1 0 0 0 1 0 0 0 1 bb-ax-106.dat
+1 14 -740 144 0 1 0 0 0 1 0 0 0 1 bb-ax-34.dat
+1 14 -880 144 0 1 0 0 0 1 0 0 0 1 bb-ax-66.dat
 1 14 270 -112 0 1 0 0 0 1 0 0 0 1 bb-b-3x1.dat
 1 14 250 -80 0 1 0 0 0 1 0 0 0 1 bb-b-5x1.dat
 1 14 230 -40 0 1 0 0 0 1 0 0 0 1 bb-b-7x1.dat
@@ -41,9 +43,6 @@
 1 14 -550 -180 0 1 0 0 0 0 -1 0 1 0 bb-cau.dat
 1 14 -300 -200 0 1 0 0 0 0 -1 0 1 0 bb-cb400.dat
 1 14 -70 -290 0 1 0 0 0 1 0 0 0 1 bb-pivot+ball.dat
-1 9 300 -264 0 1 0 0 0 0 1 0 -1 0 bb-sc-M2x10.dat
-1 9 270 -260 0 1 0 0 0 0 1 0 -1 0 bb-sc-M3x12.dat
-1 9 300 -220 0 1 0 0 0 0 1 0 -1 0 bb-sc-M3x25.dat
 1 9 270 -210 0 1 0 0 0 0 1 0 -1 0 bb-sc-M4x10.dat
 1 9 240 -250 0 1 0 0 0 0 1 0 -1 0 bb-sc-M4x20.dat
 1 9 210 -250 0 1 0 0 0 0 1 0 -1 0 bb-sc-M4x30.dat
@@ -51,18 +50,41 @@
 1 9 250 -152 0 1 0 0 0 -1 0 0 0 -1 bb-sc-M4n.dat
 1 9 220 -160 0 1 0 0 0 -1 0 0 0 -1 bb-sc-M3p.dat
 1 9 240 -192 0 1 0 0 0 -1 0 0 0 -1 bb-sc-M4p.dat
-1 14 110 -232 0 1 0 0 0 -1 0 0 0 -1 bb-srv_big-m.dat
 1 0 240 -368 0 1 0 0 0 -1 0 0 0 -1 bb-srv-MG995.dat
 1 1 130 -360 0 1 0 0 0 -1 0 0 0 -1 bb-srv-SG90.dat
-1 14 30 -144 0 1 0 0 0 -1 0 0 0 -1 bb-srv_small-m.dat
-1 14 140 -158 0 1 0 0 0 0 -1 0 1 0 bb-srv_small-p.dat
-1 14 -540 -454 0 1 0 0 0 -1 0 0 0 -1 bb-w-100x1-center.dat
 1 14 -260 -448 0 1 0 0 0 -1 0 0 0 -1 bb-w-100x1-no_center.dat
-1 14 -40 -536 0 1 0 0 0 -1 0 0 0 -1 bb-w-53x1-center.dat
-1 14 110 -536 0 1 0 0 0 -1 0 0 0 -1 bb-w-53x1-cross.dat
+1 14 410 -536 0 1 0 0 0 -1 0 0 0 -1 bb-w-53x1-cross.dat
 1 14 260 -536 0 1 0 0 0 -1 0 0 0 -1 bb-w-53x1-enco.dat
 1 14 -40 -376 0 1 0 0 0 -1 0 0 0 -1 bb-w-53x1-no_center.dat
-1 0 430 -440 0 1 0 0 0 -1 0 0 0 -1 bb-w-53x1-t.dat
+1 0 480 -208 0 1 0 0 0 -1 0 0 0 -1 bb-w-53x1-t.dat
 1 0 480 -208 0 1 0 0 0 -1 0 0 0 -1 bb-w-100x1-t.dat
 1 14 460 92 0 1 0 0 0 0 -1 0 1 0 bb-bbox.dat
+1 14 -710 120 0 1 0 0 0 0 -1 0 1 0 bb-ax-67-m3.dat
+1 14 -710 90 0 1 0 0 0 0 -1 0 1 0 bb-ax-37-m3.dat
+1 14 -700 60 0 1 0 0 0 1 0 0 0 1 bb-gr-up-8x8.dat
+1 14 -740 64 0 1 0 0 0 1 0 0 0 1 bb-gr-up-10x8.dat
+1 14 -730 -272 0 1 0 0 0 1 0 0 0 1 bb-adp-2.dat
+1 14 -730 -216 0 1 0 0 0 1 0 0 0 1 bb-adp-1.dat
+1 14 -730 -160 0 1 0 0 0 1 0 0 0 1 bb-adp-4b.dat
+1 14 -730 -112 0 1 0 0 0 1 0 0 0 1 bb-adp-4.dat
+1 14 -730 -64 0 1 0 0 0 1 0 0 0 1 bb-adp-3.dat
+1 14 -730 -16 0 1 0 0 0 1 0 0 0 1 bb-adp-sm2.dat
+1 14 -730 24 0 1 0 0 0 1 0 0 0 1 bb-adp-sm1.dat
+1 14 -940 104 0 1 0 0 0 1 0 0 0 1 bb-adp-4d.dat
+1 14 -940 -8 0 1 0 0 0 1 0 0 0 1 bb-gr-11.dat
+1 14 -860 40 0 1 0 0 0 1 0 0 0 1 bb-gr-22.dat
+1 14 -890 -112 0 1 0 0 0 1 0 0 0 1 bb-gr-33.dat
+1 14 -780 -32 0 1 0 0 0 1 0 0 0 1 bb-grr-11x1.dat
+1 14 270 -264 0 1 0 0 0 0 1 0 -1 0 bb-sc-m2x8.dat
+1 14 180 -260 0 1 0 0 0 0 1 0 -1 0 bb-sc-m3x8.dat
+1 14 180 -220 0 1 0 0 0 0 1 0 -1 0 bb-sc-m3x10.dat
+1 14 -100 -148 0 1 0 0 0 -1 0 0 0 -1 bb-srv_big-m2.dat
+1 14 90 -288 0 1 0 0 0 -1 0 0 0 -1 bb-srv-small-m.dat
+1 14 90 -176 0 1 0 0 0 -1 0 0 0 -1 bb-srv-small-m2.dat
+1 14 -790 -168 0 1 0 0 0 -1 0 0 0 -1 bb-adp-srv-10x8.dat
+1 14 -790 -200 0 1 0 0 0 -1 0 0 0 -1 bb-adp-srv-10x8-sm.dat
+1 14 -540 -440 0 1 0 0 0 -1 0 0 0 -1 bb-wu-100x1.dat
+1 14 -40 -536 0 1 0 0 0 -1 0 0 0 -1 bb-wu-53x1.dat
+1 14 110 -536 0 1 0 0 0 -1 0 0 0 -1 bb-wu-53x1s.dat
+1 14 -910 -256 0 1 0 0 0 -1 0 0 0 -1 bb-gr-22-hs-10u.dat
 0
