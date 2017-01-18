@@ -1,0 +1,10 @@
+0 Bitbeam Sensor OLED Set
+0 Name: bb-sen-oled.dat
+0 Author: Tomas Feltl (e-Mole.cz)
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 7 0 0 0 1 0 0 0 1 0 0 0 1 bb-sen-oled-pr.dat
+1 1 6 2 100 1 0 0 0 0 -1 0 1 0 bb-sen-cn4.dat
+0

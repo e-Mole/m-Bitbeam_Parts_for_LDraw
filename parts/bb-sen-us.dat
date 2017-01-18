@@ -1,0 +1,12 @@
+0 Bitbeam Sensor Ultrasonic Set
+0 Name: bb-sen-us.dat
+0 Author: Tomas Feltl (e-Mole.cz)
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 134 0 0 0 1 0 0 0 1 0 0 0 1 bb-sen-us-pr.dat
+1 28 0 0 0 1 0 0 0 1 0 0 0 1 bb-sen-us-pcb.dat
+1 9 0 0 0 1 0 0 0 1 0 0 0 1 bb-sen-us-sn.dat
+1 1 -19.5 3 60 1 0 0 0 -1 0 0 0 -1 bb-sen-cn4.dat
+0

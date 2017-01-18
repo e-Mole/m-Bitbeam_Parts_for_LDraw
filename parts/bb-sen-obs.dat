@@ -1,0 +1,16 @@
+0 Bitbeam Sensor Obstacle IR Set
+0 Name: bb-sen-obs.dat
+0 Author: Tomas Feltl (e-Mole.cz)
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+
+0 Unofficial Model
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+1 226 0 0 0 1 0 0 0 1 0 0 0 1 bb-sen-ir-pr.dat
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 bb-sen-ir-sn.dat
+1 28 0 -1 0 1 0 0 0 1 0 0 0 1 bb-sen-v2-pcb.dat
+1 1 0 -1 0 1 0 0 0 1 0 0 0 1 bb-sen-cn4.dat
+1 1 0 -1 0 1 0 0 0 1 0 0 0 1 bb-sen-v2-pot.dat
+1 118 0 -1 0 1 0 0 0 1 0 0 0 1 bb-sen-v2-cov.dat
+0
