@@ -1,0 +1,14 @@
+0 Bitbeam Stepper 28BYJ set + SM +  53 mm Wheel
+0 Name: bb-stp_28byj-set-m.dat
+0 Author: Tomas Feltl (e-Mole.cz)
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 ROTATION CENTER 0 0 0 1 "Custom" 
+0 ROTATION CONFIG 0 0
+0 BFC CERTIFY CCW
+1 16 0 -40 0 0 0 1 1 0 0 0 1 0 bb-stp_28byj-pr.dat
+1 0 0 -40 56 0 0 -1 1 0 0 0 -1 0 bb-stp_28byj.dat
+1 16 0 -40 49 1 0 0 0 1 0 0 0 1 bb-adp-stp-10x8.dat
+1 0 0 -40 53 0 0 1 0 1 0 -1 0 0 bb-ax-37-m3.dat
+1 16 0 -40 60 0 -1 0 1 0 0 0 0 1 bb-wu-53x1+adp+t.dat
+0
